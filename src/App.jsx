@@ -1,7 +1,7 @@
 import React from 'react';
 import Threads from './Threads';
 import DepthCarousel from './DepthCarousel';
-import { ArrowRight, Mail } from 'lucide-react';
+import { ArrowDown, ArrowRight, Mail } from 'lucide-react';
 import './App.css';
 
 
@@ -75,7 +75,7 @@ export default function App() {
             <h2>Ver Proyectos</h2>
             <div className="scroll-indicator">
               <span></span>
-              <ArrowRight size={16} />
+              <ArrowDown size={16} />
             </div>
           </div>
 
