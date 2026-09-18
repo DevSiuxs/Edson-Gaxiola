@@ -9,17 +9,17 @@ export default function App() {
   const projects = [
     {
       id: '01 // PROJ',
-      title: 'Futuros proyectos "lading page"',
-      description: 'High-performance financial telemetry and real-time visualization platform.',
+      title: 'Portafolio Edson Gaxiola Hernandez',
+      description: 'Developer Portafolio skills',
       image: 'https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=600&q=80',
-      link: 'https://github.com'
+      link: 'https://portafoliodevsiuxs.netlify.app/'
     },
     {
       id: '02 // PROJ',
-      title: 'Portfolio Edson',
-      description: 'Editorial dark aesthetic design built for modular scalability.',
-      image: 'https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?auto=format&fit=crop&w=600&q=80',
-      link: 'https://portafoliodevsiuxs.netlify.app/'
+      title: 'Tienda de anime',
+      description: 'Descubre la mejor tienda de coleccionables, manga y merchandise oficial con animaciones y estilo único.',
+      image: 'anime-store.JPG',
+      link: 'https://lp-anime-store.web.app/'
     }
   ];
 
