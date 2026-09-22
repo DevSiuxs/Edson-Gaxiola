@@ -20,6 +20,13 @@ export default function App() {
       description: 'Descubre la mejor tienda de coleccionables, manga y merchandise oficial con animaciones y estilo único.',
       image: 'anime-store.JPG',
       link: 'https://lp-anime-store.web.app/'
+    },
+    {
+      id: '03 // PROJ',
+      title: 'taller de motocicletas',
+      description: 'Experiencia web interactiva que muestra el diseño dinámico y moderno de una motocicleta.',
+      image: 'valentino.jpg',
+      link: 'https://motorsport-egh.web.app/'
     }
   ];
 
