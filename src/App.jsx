@@ -27,6 +27,13 @@ export default function App() {
       description: 'Experiencia web interactiva que muestra el diseño dinámico y moderno de una motocicleta.',
       image: 'valentino.jpg',
       link: 'https://motorsport-egh.web.app/'
+    },
+     {
+      id: '03 // PROJ',
+      title: 'GYM IA',
+      description: 'Gimnasio de vanguardia equipado con biometría, conectividad total y rutinas personalizadas por inteligencia artificial.',
+      image: 'gym.webp',
+      link: 'https://gym-tech-gh.web.app/'
     }
   ];
 
