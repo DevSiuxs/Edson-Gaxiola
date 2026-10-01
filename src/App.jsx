@@ -105,6 +105,10 @@ export default function App() {
             className="primary-btn"
             target="_blank" ><span> Tu lista de tareas personal</span> <ArrowRight size={18} />
             </a>
+            <a href="https://cabina-de-fotos-3x3.web.app/"
+            className="primary-btn"
+            target="_blank" ><span>Cabina para fotos 3x3</span> <ArrowRight size={18} />
+            </a>
 
           </div>
         </section>
